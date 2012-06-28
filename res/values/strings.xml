@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">SMS/MMS Backup</string>
+    <string name="backup_button">Backup!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">SMS/MMS Backup</string>
+
+</resources>
